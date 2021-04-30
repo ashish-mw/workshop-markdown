@@ -19,6 +19,11 @@ One common use-case for markdown is writing
 platforms like Github will render mardown to html so that it can be viewed in
 all its glory in our browsers.
 
+## Previewing markdown
+
+- In vscode, on the md file and press `Ctrl + Shift + v` to open the preview window.
+Drag the tab to the side and preview as your compose.
+
 ## The markdown cheatsheet
 
 This is not a definitive list, but this would be enough to write good documentation
