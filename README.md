@@ -163,3 +163,11 @@ const msg = 'Hello World!'
 - [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GH markdown style](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## Bonus
+
+```
+$ npm i -g markdown-html-cli
+$ md2html README.md
+$ open README.html
+```
