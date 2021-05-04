@@ -21,8 +21,10 @@ all its glory in our browsers.
 
 ## Previewing markdown
 
-- In vscode, on the md file and press `Ctrl + Shift + v` to open the preview window.
+- In [vscode](https://code.visualstudio.com/download), on the md file and press `Ctrl + Shift + v` to open the preview window.
 Drag the tab to the side and preview as your compose.
+- Download any one markdown composer that you'd like from <https://www.fossmint.com/best-markdown-editors-for-macos> or <https://www.oberlo.in/blog/markdown-editors>.
+- Try online at <https://dillinger.io/>
 
 ## The markdown cheatsheet
 
